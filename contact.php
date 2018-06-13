@@ -24,6 +24,7 @@
                 <p><span>alamat:</span> Jl. Nusa Indah, Condongcatur, Sleman, Yogyakarta</p>
                 <p><span>telepon:</span> +62 82243 3740 43</p>
                 <p><a href="mailto:contact@kuskus.com">contact@kuskus.com</a></p>
+                <p><span>Temlate : Essence Based</span>
             </div>
         </div>
 

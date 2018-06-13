@@ -2,9 +2,9 @@
     <section class="single_product_details_area d-flex align-items-center">
         <div class="single_product_thumb clearfix">
             <div class="product_thumbnail_slides owl-carousel">
-                <img src="https://sta3-nzxtcorporation.netdna-ssl.com/uploads/product_image/image/1710/large_f7fb938c59690e60.png" alt="">
-                <img src="https://sta3-nzxtcorporation.netdna-ssl.com/uploads/product_image/image/1709/large_df72674e32f59df4.png" alt="">
-                <img src="https://sta3-nzxtcorporation.netdna-ssl.com/uploads/product_image/image/1711/large_0695f3dec3adda85.png" alt="">
+                <img src="img/product-img/thermaltake-water-cooling-pacific-rl360-d5-kit.jpg" alt="">
+                <img src="img/product-img/a33.jpg" alt="">
+                <img src="img/product-img/WC9ACEK_141365_800x800.png" alt="">
             </div>
         </div>
 
@@ -29,13 +29,13 @@
                         <option value="value">SOCKET: TR4</option>
                     </select>
                     <select name="select" id="productColor">
-                        <option value="value">Kit Color: Black</option>
-                        <option value="value">Kit Color: White</option>
+                        <option value="value">Warna Kit: Hitam</option>
+                        <option value="value">Warna Kit: Putih</option>
                     </select>
                 </div>
                 <div class="select-box d-flex mt-50">
                         <div class="widget color">
-                            <p class="widget-title2 mb-30">Color</p>
+                            <p class="widget-title2 mb-30">Warna Liquid</p>
                             <div class="widget-desc">
                                 <ul class="d-flex">
                                     <li><a href="#" class="color1"></a></li>
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="cart-fav-box d-flex align-items-center">
-                    <button type="submit" name="addtocart" value="5" class="btn essence-btn">Add to cart</button>
+                    <button type="submit" name="addtocart" value="5" class="btn essence-btn">Keranjangkan</button>
                     <div class="product-favourite ml-4">
                         <a href="#" class="favme fa fa-heart"></a>
                     </div>

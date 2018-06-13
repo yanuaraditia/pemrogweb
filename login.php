@@ -14,14 +14,14 @@
                             <div class="row">
                                 <div class="col-md-6 mb-3">
                                     <label for="first_name">Nama Pengguna <span>*</span></label>
-                                    <input type="text" class="form-control" id="first_name" value="" required>
+                                    <input type="text" class="form-control" id="first_name" value="painem" required>
                                 </div>
                                 <div class="col-md-6 mb-3">
                                     <label for="last_name">Password <span>*</span></label>
-                                    <input type="password" class="form-control" id="last_name" value="" required>
+                                    <input type="password" class="form-control" id="last_name" value="tursinem" required>
                                 </div>
                             </div>
-                        <a href="#" class="btn essence-btn">Masuk</a>
+                        <a href="dashboard.php" class="btn essence-btn">Masuk</a>
                         <a href="register.php" class="btn essence-btn alt">Daftar</a>
                         </form>
                     </div>

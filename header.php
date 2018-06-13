@@ -8,8 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Kuskus - Cust By Yours</title>
 
-    <link rel="icon" href="img/core-img/favicon.ico">
-
     <link rel="stylesheet" href="css/core-style.css">
     <link rel="stylesheet" href="style.css">
 
@@ -19,7 +17,7 @@
     <header class="header_area">
         <div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between">
             <nav class="classy-navbar" id="essenceNav">
-                <a class="nav-brand" href="index.php"><img src="img/core-img/logo2.png" alt=""></a>
+                <a class="nav-brand" href="index.php"><img src="img/core-img/kuskus.png" alt="" width="100px"></a>
                 <div class="classy-navbar-toggler">
                     <span class="navbarToggler"><span></span><span></span><span></span></span>
                 </div>
@@ -66,7 +64,6 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href="blog.php">Blog</a></li>
                             <li><a href="contact.php">Kontak</a></li>
                         </ul>
                     </div>
@@ -107,42 +104,56 @@
             <div class="cart-list">
                 <div class="single-cart-item">
                     <a href="#" class="product-image">
-                        <img src="img/product-img/product-1.jpg" class="cart-thumb" alt="">
+                        <img src="img/product-img/2017-05-18-product.png" class="cart-thumb" alt="">
                         <div class="cart-item-desc">
                           <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
-                            <span class="badge">Mango</span>
-                            <h6>Button Through Strap Mini Dress</h6>
-                            <p class="size">Size: S</p>
-                            <p class="color">Color: Red</p>
-                            <p class="price">Rp.2000000</p>
+                            <span class="badge">SULTANCOMP</span>
+                            <h6>NZXT Kraken X72</h6>
+                            <p class="size">Socket: TR4</p>
+                            <p class="color">Warna Fan: Ungu</p>
                         </div>
                     </a>
                 </div>
 
                 <div class="single-cart-item">
                     <a href="#" class="product-image">
-                        <img src="img/product-img/product-2.jpg" class="cart-thumb" alt="">
+                        <img src="img/product-img/thermaltake-water-cooling-pacific-rl360-d5-kit.jpg" class="cart-thumb" alt="">
                         <div class="cart-item-desc">
                           <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
-                            <span class="badge">Mango</span>
-                            <h6>Button Through Strap Mini Dress</h6>
-                            <p class="size">Size: S</p>
-                            <p class="color">Color: Red</p>
-                            <p class="price">Rp.2000000</p>
+                            <span class="badge">KOMPORGAS</span>
+                            <h6>Thermaltake Pacific RL360 D5</h6>
+                            <p class="color">Warna Fan : Merah</p>
+                            <p class="color">Warna Liquid : Pink</p>
                         </div>
                     </a>
                 </div>
 
                 <div class="single-cart-item">
                     <a href="#" class="product-image">
-                        <img src="img/product-img/product-3.jpg" class="cart-thumb" alt="">
+                        <img src="img/product-img/30669.jpg" class="cart-thumb" alt="">
                         <div class="cart-item-desc">
                           <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
-                            <span class="badge">Mango</span>
-                            <h6>Button Through Strap Mini Dress</h6>
-                            <p class="size">Size: S</p>
-                            <p class="color">Color: Red</p>
-                            <p class="price">Rp.2500000</p>
+                            <span class="badge">SULTANIZM</span>
+                            <h6>Vortex Poker 3</h6>
+                            <p class="color">Switch: Matias Quiet</p>
+                            <p class="color">Keycaps: GMK Nautilus</p>
+                            <p class="color">Layout: Colemak</p>
+                            <p class="color">Warna: Putih</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="single-cart-item">
+                    <a href="#" class="product-image">
+                        <img src="img/product-img/30669.jpg" class="cart-thumb" alt="">
+                        <div class="cart-item-desc">
+                          <span class="product-remove"><i class="fa fa-close" aria-hidden="true"></i></span>
+                            <span class="badge">SULTANIZM</span>
+                            <h6>Vortex Poker 3</h6>
+                            <p class="color">Switch: Matias Quiet</p>
+                            <p class="color">Keycaps: GMK Nautilus</p>
+                            <p class="color">Layout: Colemak</p>
+                            <p class="color">Warna: Putih</p>
                         </div>
                     </a>
                 </div>
@@ -150,15 +161,15 @@
 
             <div class="cart-amount-summary">
 
-                <h2>Your Bags</h2>
+                <h2>Keranjang</h2>
                 <ul class="summary-table">
                     <li><span>total:</span> <span>Rp.6500000</span></li>
-                    <li><span>delivery:</span> <span>Free</span></li>
-                    <li><span>discount:</span> <span>0%</span></li>
-                    <li><span>total:</span> <span>Rp.6500000</span></li>
+                    <li><span>pengiriman:</span> <span>Gratis</span></li>
+                    <li><span>potongan:</span> <span>0%</span></li>
+                    <li><span>bayar:</span> <span>Rp.6500000</span></li>
                 </ul>
                 <div class="checkout-btn mt-100">
-                    <a href="checkout.php" class="btn essence-btn">pay</a>
+                    <a href="checkout.php" class="btn essence-btn">bayar</a>
                 </div>
             </div>
         </div>

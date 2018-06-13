@@ -4,25 +4,17 @@
                 <div class="col-12 col-md-6">
                     <div class="single_widget_area d-flex mb-30">
                         <div class="footer-logo mr-50">
-                            <a href="#"><img src="img/core-img/logo2.png" alt=""></a>
-                        </div>
-                        <div class="footer_menu">
-                            <ul>
-                                <li><a href="shop.html">Ulasan</a></li>
-                                <li><a href="contact.html">Kontak</a></li>
-                            </ul>
+                            <a href="#"><img src="img/core-img/kuskus.png" alt="" width="150px"></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="single_widget_area mb-30">
                         <ul class="footer_widget_menu">
-                            <li><a href="#">Cek Status Pengiriman</a></li>
+                            <li><a href="delcheck.php">Cek Status Pengiriman</a></li>
                             <li><a href="#">Metode Pembayaran</a></li>
-                            <li><a href="#">Pilihan Jasa Pengiriman</a></li>
-                            <li><a href="#">Panduan</a></li>
-                            <li><a href="#">Keamanan Privasi</a></li>
-                            <li><a href="#">Ketentuan Penggunaan</a></li>
+                            <li><a href="ulasan.php">Ulasan</a></li>
+                            <li><a href="pp.php">Kebijakan Privasi</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,7 +37,7 @@
                 <div class="col-12 col-md-6">
                     <div class="single_widget_area">
                         <div class="footer_social_area">
-                            <img data-toggle="tooltip" data-placement="top" title="Payment" img src="img/core-img/payment5.png"/>
+                            <img data-toggle="tooltip" data-placement="top" title="Afiliasi Resmi Pembayaran Kami" img src="img/core-img/payment5.png"/>
                         </div>
                     </div>
                 </div>

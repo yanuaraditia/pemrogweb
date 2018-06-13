@@ -138,20 +138,14 @@ h6 {
     opacity: 0.5
 }
 .single_catagory_area .catagory-content,.single_catagory_area:hover .catagory-content {
-    border-bottom: 2px solid #fff
+    border-bottom: 2px solid #fff;
 }
 .single_catagory_area:hover .catagory-content a,.single_catagory_area .catagory-content a {
-    color: #fff
+    color: #fff;
 }
-
-
-.brands-area {
-    padding: 50px 10%
-}
-
 
 .new_arrivals_area {
-    background: #222;
+    background: #333;
     margin-top: 80px
 }
 .single-product-wrapper {
@@ -211,6 +205,11 @@ h6 {
     box-shadow: none;
     background: transparent;
 }
-.brands-area {
-    background: #777
+.pagination .page-item:last-child .page-link,.pagination .page-item:first-child .page-link {
+    background: #ff084e;
+    color: #fff;
+    border:none;
+}
+.right-side-cart-area .cart-content .cart-list .single-cart-item .product-image .cart-item-desc .price {
+    margin: 10px 0;
 }
